@@ -1,0 +1,29 @@
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10pt; 
+
+}
+
+
+body {  
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10pt; }
+
+div { font-weight: normal; /* 100, 200, 400, 500, 700, 900*/ }
+
+mark {background-color: purple; color: white;}
+
+
+.superduper {font-weight: bold;}
+.supper {color: purple; font-variant-caps: all-petite-caps; font-size: 15pt;}
+.super {color: purple; font-variant-caps: all-petite-caps;}
+.marv {font-style: italic;}
+.real {letter-spacing: 0.4em}
+.no {letter-spacing: -0.08em}
+.cat {text-decoration: underline;}
+.moo {text-decoration: overline}
+.cow {text-decoration: line-through;}
+.gooey {text-transform: uppercase;}
+.icecream {text-transform: lowercase;}
+.gum {text-transform: capitalize;}

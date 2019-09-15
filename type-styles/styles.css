@@ -1,0 +1,17 @@
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10pt; 
+
+}
+
+
+body {  
+	font-family: 'Open Sans', sans-serif;
+	font-size: 10pt; }
+
+div { font-weight: normal; /* 100, 200, 400, 500, 700, 900*/ }
+p {font-weight: bold;}
+
+
+.superduper {font-weight: bold;}
