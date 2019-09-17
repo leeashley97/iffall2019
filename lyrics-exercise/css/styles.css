@@ -1,0 +1,5 @@
+body {font-size: 10pt;}
+.hello {color: red; font-weight: bold; font-style: italic; font-size: 10pt; text-decoration: underline; text-decoration: overline; opacity: 0.8;}
+.welcome {font-size: 10pt; font-weight: normal;}
+.one {font-weight: bolder}
+
