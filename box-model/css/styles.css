@@ -1,5 +1,6 @@
 body{
 	font-family: 'Archivo Narrow', sans-serif;
+	background-color: skyblue;
 }
 
 h1 {
@@ -28,7 +29,7 @@ p {
 }
 
 header {
-	background-color: rgba(255,0,0,0.5);
+	background-color: skyblue;
 	color: white;
 	text-align: center;
 	padding: 150px 0 183px 0;
@@ -38,7 +39,7 @@ header {
 }
 section > div {
 	width: 960px;
-	background-color: rgba(0,255,255,0.5);
+	background-color: skyblue;
 	margin: auto;
 	padding: 55px 0 32px 0;
 	line-height: 25px;
@@ -79,7 +80,7 @@ ul {
 li {
 	width: 50%;
 	height: 160px;
-	background-color: rgbd (255, 0, 255, 0.3);
+	background-color: skyblue;
 	padding-right: 25px;
 	box-sizing: border-box;
 	display: inline-block;
@@ -97,6 +98,7 @@ li img {
 
 .section_three {
 	padding-top: 10px;
+	background-color: skyblue;
 }
 
 
@@ -108,16 +110,20 @@ li img {
 	margin-left: 120px;
 	margin-right: 120px;
 	word-spacing: 2.5px;
+	background-color: skyblue;
+
 
 
 
 }
 
 footer {
+	position: relative;
 	margin-top: 81px;
 	margin-left: 240px;
 	font-size: 19px;
 	letter-spacing: -0.023em;
+
 }
 
 
