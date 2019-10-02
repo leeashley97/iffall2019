@@ -38,13 +38,11 @@ header {
 }
 section > div {
 	width: 960px;
-	/*background-color: rgba(0,255,255,0.5);*/
+	background-color: rgba(0,255,255,0.5);
 	margin: auto;
-	padding: 55px 0 0 0;
+	padding: 55px 0 32px 0;
 	line-height: 25px;
 	text-align: left;
-
-
 
 }
 
@@ -60,5 +58,84 @@ section.section_one {
 	width: 400px;
 	height: 300px;
 	margin-left: 36px;
-	margin-bottom: 22px;
+	margin-bottom: 30px;
 }
+
+
+h4 { 
+	font-size: 20px;
+	line-height: 1.4px;
+	margin: 18px 0 6px 0;
+	
+
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	width: 50%;
+	height: 160px;
+	background-color: rgbd (255, 0, 255, 0.3);
+	padding-right: 25px;
+	box-sizing: border-box;
+	display: inline-block;
+	margin-bottom: 14.4px;
+}
+
+li img {
+	height: 150px;
+	width: 200px;
+	padding-top: 0px;
+	float: left; /*this means text floats left to the image*/
+	margin-right: 12px;
+	
+}
+
+.section_three {
+	padding-top: 10px;
+}
+
+
+.section_three p {
+	margin-top: 48px;
+	font-size: 25px;
+	box-sizing:  border-box;
+	text-align: center;
+	margin-left: 120px;
+	margin-right: 120px;
+	word-spacing: 2.5px;
+
+
+
+}
+
+footer {
+	margin-top: 81px;
+	margin-left: 240px;
+	font-size: 19px;
+	letter-spacing: -0.023em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
