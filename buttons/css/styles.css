@@ -1,0 +1,243 @@
+
+
+.fa-facebook-square{
+	position:absolute;
+	margin-top: 80px;
+	margin-left: 90px;
+	color: #3b5998;
+}
+
+.fa-facebook-square:hover {
+	color: #8b9dc3;
+	transform: scale(0.85);
+}
+
+.samsung_img {
+	position: absolute;
+	width: 200px;
+	margin-left: 25px;
+	margin-top: 50px;
+	 
+}
+ 
+.samsung_img:hover {
+
+	  -webkit-filter: blur(2px);
+}
+
+.mollyjogger_img {
+	position:absolute;
+	width: 200px;
+	margin-left: 25px;
+	margin-top: 100px;
+	
+}
+
+.mollyjogger_img:hover {
+	filter: invert(200%); 
+	filter: hue-rotate(270deg);
+	opacity: 0.5;
+	
+
+}
+
+.fa-apple{
+	position:absolute;
+	margin-top: 80px;
+	margin-left: 90px;
+	color: #7D7D7D;
+}
+
+.fa-apple:hover {
+	color: black;
+	opacity: 1;
+
+  -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.7, transparent), to(rgba(0,0,0,0.4)));
+  -webkit-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+  -moz-box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+  box-shadow: 0px 0px 20px rgba(255,255,255,0.8);
+}
+
+
+.ibm_img {
+	position:absolute;
+	width: 150px;
+	margin-top: 75px;
+	margin-left: 40px;
+	
+}
+	
+
+
+.ibm_img:hover {
+	transform: skew(30deg);
+	filter: hue-rotate(30deg);
+	animation: blinker 1.5s linear infinite;
+
+}
+
+@keyframes blinker { 
+  50% { opacity: 0; }
+  }
+
+ .ideo {
+ 	position:absolute;
+ 	width: 100px;
+	margin-top: 72px;
+	margin-left: 73px;
+	text-decoration: none;
+	display: inline-block;
+	border-bottom: 0px solid transparent;
+	transition-bottom: 3s ease;
+
+ }
+
+ .ideo:hover {
+ 	border: 1.3px solid orange;
+ }
+
+.MK {
+	position:absolute;
+	width: 200px;
+	margin-top: 55px;
+	margin-left: 23px;
+	border-radius: 8px;
+    position: absolute;   
+
+}
+
+.MK:hover {
+
+	 z-index: 0.2;
+	 transform: scaleX(0);
+    transform-origin: 50%;
+    transition: transform ease-in-out 0.3s;
+
+}
+
+.cocacola {
+	position:absolute;
+	width: 200px;
+	margin-top: 70px;
+	margin-left: 23px;
+	box-sizing: border-box;
+	border: 3px solid #D30923;
+
+
+}
+
+ .cocacola:hover {
+  
+   opacity: 0.8;
+   border-style: dotted;
+   border-opacity: 0.8;
+ }
+
+.hsn {
+	position:absolute;
+	width: 200px;
+	margin-top: 25px;
+	margin-left: 20px;
+	-webkit-transition: -webkit-transform .8s ease-in-out;
+          transition:         transform .8s ease-in-out;
+}
+
+.hsn:hover {
+	 -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+	}
+
+
+.electra {
+	position:absolute;
+	width: 150px;
+	margin-top: 90px;
+	margin-left: 25px;
+	background: #ffffff;
+	padding: 20px;
+	border: 4px solid #00a8cb;
+	border-radius: 6px;
+	display: inline-block;
+	
+
+}
+
+.electra:hover {
+	opacity: 50%;
+
+	border-radius: 28px;
+	border-color:lightgrey;
+
+	transition: all 0.3s ease 0s;
+}
+
+.foreflight {
+	position:absolute;
+	width: 100px;
+	margin-top: 75px;
+	margin-left:70px;
+-webkit-filter: brightness(50%);
+
+}
+
+.foreflight:hover {
+	-webkit-filter: brightness(100%);
+}
+
+.army {
+	position:absolute;
+	width: 100px;
+	margin-top: 55px;
+	margin-left:70px;
+ 	
+
+
+}
+
+
+.army:hover {
+	transform: scale(1.2);
+	box-shadow: 1px 1px 20px yellow;
+}
+
+.nike {
+	position:absolute;
+	width: 200px;
+	margin-top: 70px;
+	margin-left:30px;
+}
+
+.nike:hover {
+	filter:brightness(0);
+	transition: 1s;
+}
+
+.colorrun_img {
+	position:absolute;
+	width: 150px;
+	margin-top: 75px;
+	margin-left: 40px;
+
+}
+.colorrun_img:hover {
+		text-decoration: underline;
+		border-radius: 10px;
+		transform: scaleX(0.5);
+		transform: rotate(5deg) translate(10px, 10px); 
+		
+	}
+
+
+.button_container {
+	border: 1px solid; color: darkgrey;
+	overflow: hidden;
+	box-sizing: border-box;
+	width: 250px;
+	height: 250px;
+}
+
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
