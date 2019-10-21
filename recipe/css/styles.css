@@ -1,0 +1,182 @@
+/*12180px x 2436px */
+
+
+body {
+	width:1125px;
+	background-color: white;
+	color: white;
+	font-size: 260px;
+	text-align: center;
+
+
+
+}
+
+
+header {
+	
+	padding: 450px 0 400px 0;
+	background-image: url(file:///Users/ashleylee/Desktop/iffall2019/publish/recipe-wireframe/photo/1.png);
+	background-size:1125px 900px ;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+h1 {
+	font-size: 160px;
+	color: #d44b19;
+	font-family: Aclonica;
+	font-weight: bold 800;
+	margin-top: 150px;
+	
+	
+}
+
+
+h3 {
+	font-family: Dosis;
+	font-weight: bold;
+	font-size: 80px;
+	text-align: center;
+	background-color: brown;
+	box-sizing: border-box;
+	display: inline-block;;
+	margin-left: 362.5px;
+	margin-right: 362.5px;
+	padding-top: 40px;
+
+	color: white;
+	height: 100px;
+	width: 400px;
+	
+	margin-left: 342.5px;
+	margin-top: 200px;
+}
+
+
+section.section_one {
+	font-size:10px;
+	margin-top: 100px;
+	font-family: Rubik;
+	font-weight: lighter;
+	color:brown;
+	line-height: 7px;
+
+
+}
+p {
+	margin-top: px;
+}
+
+section.section_two {
+	font-family: Rubik;
+
+	font-size: 40px;
+	text-align: left;
+	float: left;
+
+	padding: 100px 50px 100px 50px;
+	background-color: white;
+	margin-bottom: 780px;
+	color:brown;
+	line-height: 30px;
+	box-sizing: border-box;
+	display: inline-block;
+	position: absolute;
+}
+
+section.section_three {
+	font-family: Rubik;
+
+	font-size: 40px;
+	text-align: left;
+	float: right;
+	padding: 100px 200px 100px 200px;
+	background-color: white;
+	margin-left: 150px;
+	color: brown;
+	margin-bottom: 180px;
+	line-height: 30px;
+	box-sizing: border-box;
+	display: inline-block;
+	
+
+}
+
+
+
+div.headers {
+	font-family: Dosis;
+	font-weight: bold;
+	font-size: 130px;
+	text-align: center;
+	color: white;
+	background-color: brown;
+	box-sizing: border-box;
+	display: inline-block;
+	height: 220px;
+	width: 700px;
+	padding: 10px 10px 10px 10px;
+	margin-left: 212.5px;
+	margin-right: 212.5px;
+
+
+}
+
+img.hamburger {
+
+	width: 900px;
+    height: 600px;
+    box-sizing: border-box;
+    display: inline-block;
+   
+   	margin-left: -35px;
+
+    margin-bottom: 30px;
+    border-left: 9px solid #d44b19;
+    border-right:9px solid #d44b19;
+    border-top:9px solid #d44b19;
+    border-bottom: 9px solid #d44b19;
+  
+
+}
+h5 {
+	font-size: 200px;
+	margin-top: 350px;
+	text-align: center;
+	margin-bottom: 40px;
+	color: #d44b19;
+}
+
+section.one {
+	text-align: center;
+	font-size: 60px;
+	width: 900px;
+	margin-left: 112.5px;
+	color: brown;
+	font-family: Dosis;
+	
+
+}
+section.two {
+
+	margin-top: 850px;
+	margin-left: 235px;
+	font-size: 220px;
+	color: red;
+	
+	font-family: Aclonica;
+	position: absolute;
+	text-align:  center;
+	opacity: 1;
+}
+
+
+.w {
+	width: 1125px;
+	margin-top: 500px;
+	opacity: 0.5;
+	position: relative;
+
+	}
