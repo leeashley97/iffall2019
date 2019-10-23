@@ -1,0 +1,49 @@
+body {
+
+	font-family: 'Abel', sans-serif;
+}
+p.helloo {
+	font-size: 10pt;
+	color: black;
+	font-family: 'Abel', sans-serif;
+	font-weight: bold;
+
+}
+div.hello {
+	font-size: 20pt;
+
+	color: red;
+	border-bottom: 5px solid grey;
+	font-family: 'Anton', sans-serif;
+	letter-spacing: 1.1px;
+}
+
+
+
+
+
+section.peer1 div{
+	margin-top: 50px;
+	letter-spacing: 1.1px;
+	color: green;
+	font-size: 15pt;
+		
+		font-family: 'Anton', sans-serif;
+}
+section.peer2 div{
+	margin-top: 50px;
+letter-spacing: 1.1px;
+	color: green;
+	font-size: 15pt;
+	font-family: 'Anton', sans-serif;
+	
+}
+section.intentions 
+div{
+	margin-top: 50px;
+letter-spacing: 1.1px;
+	color: orange;
+	font-size: 15pt;
+	font-family: 'Anton', sans-serif;
+		
+}

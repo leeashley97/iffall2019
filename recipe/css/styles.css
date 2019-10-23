@@ -16,7 +16,7 @@ body {
 header {
 	
 	padding: 450px 0 400px 0;
-	background-image: url(file:///Users/ashleylee/Desktop/iffall2019/publish/recipe/photo/1.png);
+	background-image: url(../photo/1.png);
 	background-size:1125px 900px ;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -74,16 +74,16 @@ section.section_two {
 
 	font-size: 40px;
 	text-align: left;
-	float: left;
+	/*float: left;*/
 
-	padding: 100px 50px 100px 50px;
+	/*padding: 100px 50px 100px 50px;*/
 	background-color: white;
-	margin-bottom: 780px;
+	/*margin-bottom: 780px;*/
 	color:brown;
 	line-height: 30px;
 	box-sizing: border-box;
 	display: inline-block;
-	position: absolute;
+	/*position: absolute;*/
 }
 
 section.section_three {
@@ -91,10 +91,10 @@ section.section_three {
 
 	font-size: 40px;
 	text-align: left;
-	float: right;
-	padding: 100px 200px 100px 200px;
+	/*float: right;*/
+	/*padding: 100px 200px 100px 200px;*/
 	background-color: white;
-	margin-left: 150px;
+	/*margin-left: 150px;*/
 	color: brown;
 	margin-bottom: 180px;
 	line-height: 30px;
