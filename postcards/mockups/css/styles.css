@@ -1,0 +1,134 @@
+body {
+	background-color: 	black;
+
+}
+p.title {
+	font-size: 30px;
+	color: white;
+
+}
+p.tittle {
+	color:  beige;
+	font-size: 17px;
+	box-sizing: border-box;
+	background-color: #cb410b;
+	max-width: 680px;
+	font-style: black;
+}
+p.ztittle {
+	color:  #cb410b;
+	font-size: 17px;
+	box-sizing: border-box;
+	background-color: beige;
+	max-width: 680px;
+	font-style: black;
+}
+
+div.intro {
+	font-size: 40px;
+	color: white;
+
+}
+div {
+	box-sizing: inline-box;
+	margin-bottom: 10px;
+
+}
+em {
+	font-style: italic;
+}
+
+p.postcardone {
+	box-sizing: inline-box;
+	position: absolute;
+	max-width: 250px;
+	margin-top: 40px;
+	color: white;
+	padding: 5px 5px 5px 5px;
+	text-align: center;
+	margin-left: 35px;
+	background-color: #014421;
+	opacity: 82%;
+	font-family: 'Enriqueta', serif;
+
+}
+
+p.postcardtwo {
+	box-sizing: inline-box;
+	position: absolute;
+	max-width: 200px;
+	margin-top: 37px;
+	color: white;
+	padding: 5px 5px 5px 5px;
+	text-align: center;
+	margin-left: 153px;
+	background-color: #014421;
+	opacity: 76%;
+	font-size: 16px;
+	font-family: 'Enriqueta', serif;
+}
+
+p.postcardthree {
+	box-sizing: inline-box;
+	position: absolute;
+	max-width: 260px;
+	margin-top: 30px;
+	color: white;
+	padding: 5px 5px 5px 5px;
+	text-align: center;
+	margin-left: 30px;
+	background-color: #801827;
+	opacity: 76%;
+	font-size: 17px;
+
+	box-shadow:  7px 7px 0px black;
+	font-family: 'Enriqueta', serif;
+	
+
+}
+
+p.postcardfour {
+	box-sizing: inline-box;
+	position: absolute;
+	max-width: 138px;
+	margin-top: 25px;
+	color: white;
+	padding: 5px 5px 5px 5px;
+	text-align: right;
+	margin-left: 17px;
+	background-color: #801827;
+	opacity: 80%;
+	font-size: 14px;
+	line-height: 20px;
+	box-shadow:  7px 7px 0px black;
+	font-family: 'Enriqueta', serif;
+	
+}
+
+
+p.postcardfive {
+	box-sizing: inline-box;
+	position: absolute;
+	max-width: 240px;
+	margin-top: 255px;
+	color: white;
+	padding: 5px 5px 5px 5px;
+	text-align: right;
+	margin-left: 10px;
+	font-size: 20px;
+	text-shadow: 1.2px 1.2px 0px purple;
+	}
+
+
+p.postcardsix {
+	box-sizing: inline-box;
+	position: absolute;
+	max-width: 140px;
+	margin-top: 346px;
+	color: white;
+	padding: 5px 5px 5px 5px;
+	text-align: center;
+	margin-left: 18px;
+	font-size: 15px;
+	text-shadow: 1.1px 1.1px 0px purple;
+}
