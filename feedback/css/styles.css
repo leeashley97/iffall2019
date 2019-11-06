@@ -1,0 +1,35 @@
+body {
+	background-color:black;
+}
+div.one {
+	font-size: 30px;
+	font-style: bold;
+	color: lightblue;
+
+}
+div.onet {
+	font-size: 14px;
+	color: skyblue;
+	font-style: italic;
+	margin-top: 30px;
+}
+
+div.two {
+	font-size: 14px;
+	color: pink;
+	margin-top: 30px;
+}
+
+
+div.three {
+	font-size: 14px;
+	color: pink;
+	margin-top: 30px;
+}
+
+
+div.four {
+	font-size: 14px;
+	color: pink;
+	margin-top: 30px;
+}
