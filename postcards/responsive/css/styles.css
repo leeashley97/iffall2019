@@ -52,19 +52,18 @@ a {
 	background-color: #efefef;
 }
 .text1 {
-	
 	box-sizing: inline-box;
 	position:absolute;
-	max-width: 1310px;
+	max-width: 400px;
 	min-width: 335px;
-	margin-top: 550px;
+	margin-top: 140px;
 	color: white;
 	text-align: left;
-	margin-left: 300px;
+	margin-left: 10px;
 	font-family: 'Enriqueta', serif;
-	font-size: 70px;
-	line-height: 100px;
+	font-size: 45px;
 }
+
 
 .text2 {
 	position: absolute;
