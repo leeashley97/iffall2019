@@ -59,9 +59,9 @@ a {
 	margin-top: 140px;
 	color: white;
 	text-align: left;
-	margin-left: 10px;
+	margin-left: 120px;
 	font-family: 'Enriqueta', serif;
-	font-size: 45px;
+	font-size: 25px;
 }
 
 
@@ -97,27 +97,6 @@ a {
 	
 
 
-@media ( min-width:1100px ){
-	.three {
-	background-image:url(../images/f1.jpg);
-	background-size:cover;
-	background-position:58% top; 
-	margin:0;
-}
-.text3 {
-	box-sizing: inline-box;
-	position:absolute;
-	max-width: 330px;
-	margin-top: 110px;
-	color: red;
-	text-align: left;
-	margin-left: 43px;
-	font-family: 'Enriqueta', serif;
-	font-size: 32px;}
-
-
-
-}
 
 @media (max-width: 600px){
 
@@ -132,13 +111,13 @@ a {
 	box-sizing: inline-box;
 	position:absolute;
 	max-width: 400px;
-	min-width: 335px;
+	line-height:50px;
 	margin-top: 140px;
 	color: white;
 	text-align: left;
 	margin-left: 10px;
 	font-family: 'Enriqueta', serif;
-	font-size: 45px;
+	font-size: 35px;
 }
 
 .two {
@@ -148,6 +127,7 @@ a {
 	margin:0;
 
 }
+
 
 .text2 {
 	box-sizing: inline-box;
@@ -165,7 +145,7 @@ a {
 	.three {
 	background-image:url(../images/f1.jpg);
 	background-size:cover;
-	background-position:58% top; 
+	background-position:48% top; 
 	margin:0;
 }
 .text3 {
@@ -180,26 +160,4 @@ a {
 	font-size: 32px;
 }
 }
-@media (min-width: 590px){
-
-.one {
-	background-image:url(../images/f3.jpg);
-	
-	background-position:58% top; 
-	margin:0;
 }
-
-.text1 {
-	box-sizing: inline-box;
-	position:absolute;
-	max-width: 1000px;
-	min-width: 335px;
-	line-height: 150px;
-	margin-top: 430px;
-	color: white;
-	text-align: center;
-	margin-left: 200px;
-	font-family: 'Enriqueta', serif;
-	font-size: 90px;
-}
-
