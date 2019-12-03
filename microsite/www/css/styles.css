@@ -287,6 +287,119 @@ font-family: 'Assistant', sans-serif;
 	position: static;
 	padding-bottom: 360px;
 }
-/*<img src="images/icon.png" class="icon">
-	<img src="images/back.png" style="width: 100%;" class="background">
-*/
+
+@media (max-width: 600px){
+
+	.mommabody {
+	position:absolute;
+	max-width: 400px;
+	line-height:50px;
+	text-align: left;
+	margin: 0;
+
+
+	}
+
+	.bigmomma {
+	font-size: 45px;
+	text-align: center;
+	}
+
+	.bpmomma {
+		font-size: 20px;
+		text-align: left;
+		margin: 8px;
+
+	}
+
+	.bpconey {
+		font-size: 12px;
+		text-align: justify;
+		line-height: 18px;
+		margin-bottom: 30px;
+	}
+
+
+
+	body {
+		background-image: none;
+		background-color: #f8edd1;
+		position: absolute;
+		
+
+	}
+.logo2 {
+	position: center;
+	min-width: 570px;
+	margin: 0;
+	
+
+}
+.logo3 {
+	position: center;
+	min-width: 570px;
+	margin: 0;
+	margin-top: -200px;
+	padding-bottom: 520px;
+
+
+}
+	.mommabody2 {
+	position:absolute;
+	max-width: 400px;
+	line-height:50px;
+	margin: 0;
+
+	}
+	.bpmomma2{
+		
+		padding-top: 40px;
+		box-sizing: border-box;
+		position: center;
+		text-align: justify;
+		margin: 0;
+	}
+	.bpconey2 {
+		box-sizing: border-box;
+		position: center;
+		text-align: justify;
+		margin: 0;
+		font-size: 12px;
+		line-height: 18px;
+	}
+	.bodyjirong {
+		box-sizing: inline-box;
+		position: absolute;
+		margin-left: -150px;
+		margin-top: 340px;
+		align-content: left;
+	}
+	.bodyjirong2 {
+		box-sizing: inline-box;
+		position: absolute;
+		align-content: left;
+		margin-left: 20px;
+	}
+	.bodyjirong3 {
+		box-sizing: inline-box;
+		position: absolute;
+		align-content: left;
+		padding-top: 200px;
+		margin-left: 20px;
+	}
+	footer {
+		display: none;
+	}
+}
+
+
+footer {
+	background-color: #f9e2a8;
+	font-size: 10px;
+	margin: 0;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	text-align: right;
+opacity: 70%;
+}
