@@ -1,0 +1,162 @@
+body {
+
+background: white;
+width: 100%;
+}
+
+
+
+  .introduction {
+  	text-align: center;
+  	font-size: 35px;
+  	margin-top: 60px;
+  	color: black;
+ 	text-shadow: 2px 2px 1px lightgrey;
+
+
+  }
+  .intro2 {
+  	text-align: center;
+  	font-size: 18px;
+  	color: #494949;
+  }
+  .prof {
+  		color: #494949;
+  	text-align: center;
+  	margin-bottom: 100px;
+  	font-size: 15px;
+  }
+.postcards:hover {
+	transform: scale(0.90);
+}
+
+.buttons:hover {
+	transform: scale(0.90);
+}
+.microsite:hover {
+	transform: scale(0.90);
+}
+.microsite2:hover {
+	transform: scale(0.90);
+}
+
+.postcards{
+	box-sizing: inline-box;
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+	margin-left: 375px;
+	max-width: 300px;
+	height: 450px;
+	text-align: center;
+	font-weight: bold;
+	padding: 10px;
+	padding-bottom: 22px;
+	position: absolute;
+	box-shadow: 3px 3px 5px darkgrey;
+	margin-bottom: 50px;
+
+
+
+	
+
+}
+.postcardstext {
+	margin-top: 30px;
+	font-size: 22px;
+		
+}
+a {
+	text-decoration: none;
+}
+
+.postcardstexttwo {
+	font-weight: normal;
+	font-size: 14px;
+}
+
+em {
+	font-style: italic;
+}
+
+
+
+.buttons{
+	position: absolute;
+	box-sizing: inline-box;
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+	max-width: 300px;
+
+	text-align: center;
+	font-weight: bold;
+	padding: 10px;
+	padding-bottom: 22px;
+	margin-left: 25px;
+	box-shadow: 3px 3px 5px darkgrey;
+
+}
+.buttonstext {
+	margin-top: 30px;
+	font-size: 22px;
+}
+
+.buttonstexttwo {
+	font-weight: normal;
+	font-size: 14px;
+}
+.microsite{
+	position: absolute;
+	box-sizing: inline-box;
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+margin-left: 725px;
+	max-width: 300px;
+	height: auto;
+	text-align: center;
+	font-weight: bold;
+	padding: 10px;
+	box-shadow: 3px 3px 5px darkgrey;
+
+	
+
+}
+.microsite2{
+	position: absolute;
+	box-sizing: inline-box;
+	border-style: solid;
+	border-width: 1px;
+	border-color: grey;
+
+	max-width: 300px;
+	height: auto;
+	text-align: center;
+	font-weight: bold;
+	padding: 10px;
+	
+	box-shadow: 3px 3px 5px darkgrey;
+
+	margin-left: 1075px;
+
+
+}
+.micrositetext {
+	margin-top: 30px;
+	font-size: 22px;
+}
+.micrositetextone {
+	font-size: 11px;
+	font-weight: normal;
+	font-style: italic;
+	line-height: 1px;
+}
+
+.micrositetexttwo {
+	margin-top: 20px;
+	font-weight: normal;
+	font-size: 14px;
+}
+
+.footer
